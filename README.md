@@ -13,3 +13,10 @@ MERN Stack Authentication template
 ![auth email reset2](https://user-images.githubusercontent.com/80168901/135347419-61f66b30-1078-4dc9-9e1a-56e4f12570ef.PNG)
 
 ![auth private](https://user-images.githubusercontent.com/80168901/135347430-690b5634-c358-4e06-9532-72208c97e391.PNG)
+
+
+Startup commands:
+server: npm run server
+client: npm start
+
+Email Service is ran through Mailtrap.io, which doesn't send email directly to user, instead all emails, regardless of sender address get routed to Mailtrap inbox.
