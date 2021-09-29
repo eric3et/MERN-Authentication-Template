@@ -8,6 +8,7 @@ MERN Stack Authentication template
 
 ![auth forgotpass](https://user-images.githubusercontent.com/80168901/135347395-0d156f1f-34b1-4692-9e31-2a974ddc2b82.PNG)
 
+Email Template:
 ![auth email reset](https://user-images.githubusercontent.com/80168901/135347409-79de60f3-adf5-4832-8558-cd1b95d5c750.PNG)
 
 ![auth email reset2](https://user-images.githubusercontent.com/80168901/135347419-61f66b30-1078-4dc9-9e1a-56e4f12570ef.PNG)
